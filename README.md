@@ -2,6 +2,7 @@
 - 👀 I’m interested in video games and learning to program
 - 🌱 I’m currently learning C, Python and Java, aswell as wanting to continue expanding knowledge on C# :)
 - 💞️ I’m looking to collaborate on game and software development
+- 🔮 In the future I would like to learn to program using more languages such as ruby aswell as learn to create game art.
 - 📫 How to reach me:
   - Email: gabrielgary@outlook.com
   - Discord: Noodle Link™#0523

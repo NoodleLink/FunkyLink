@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @NoodleLink.
-- 🥨 Currently employed at Universally Speaking as a German LQA Tester.
+- 🥨 Most recently employed at Universally Speaking as a German LQA Tester.
 - 👀 I’m interested in video games and learning to program.
-- 🌱 I’m currently learning C++, Python and Java, aswell as wanting to continue expanding knowledge on C#.
+- 🌱 I'm currently learning the Godot engine and GDScript
+- 🔜 I’m wanting to learn C++, Python and Java, aswell as continuing expanding knowledge on C#.
 - 💞️ I’m looking for an apprenticeship on game and/or software development.
-- 🔮 In the future I would like to learn to program using more languages such as ruby aswell as learn to create game art.
+- 🔮 In the future I would like to learn more game engines such and Unity and Unreal.
 - 📫 How to reach me:
   - Email: gabrielgary@outlook.com
   - Discord: noodlelink

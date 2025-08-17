@@ -8,7 +8,7 @@
 - 📫 How to reach me:
   - Email: gabrielgary@outlook.com
   - Discord: noodlelink
-I would appreciate any and all suggestions for improvement. Currently I'm using GitHub to track my progress ❤
+- I would appreciate any and all suggestions for improvement. Currently I'm using GitHub to track my progress ❤
 <!---
 FunkyLink/FunkyLink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
